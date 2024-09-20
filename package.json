@@ -41,7 +41,7 @@
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
     "@babel/preset-react": "^7.16.7",
-    "@storybook/addon-actions": "6.4.22",
+    "@storybook/addon-actions": "8.1.11",
     "@storybook/addon-docs": "6.4.22",
     "@storybook/addon-info": "5.3.21",
     "@storybook/react": "6.4.22",
