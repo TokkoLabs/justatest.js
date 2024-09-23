@@ -91,7 +91,7 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.5",
-    "react-datepicker": "^4.7.0",
+    "react-datepicker": "^7.4.0",
     "yarn": "^1.22.18"
   }
 }
